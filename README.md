@@ -1,5 +1,8 @@
 # LSTM-INC
 
+The work aims at performing sensor fusion for the application of Attitude Estimation using the LSTM framework and follow the incremental learning mechanism for weights update and prediction
+
+The different files present are:
 
 1. code_main.ipnyb is the Main Code file
 
