@@ -4,7 +4,7 @@ The work aims at performing sensor fusion for the application of Attitude Estima
 
 The different files present are:
 
-1. code_main.ipnyb is the Main Code file
+1. LSTM_Attitude_Estimation_Incremental.ipynb is the Main Code file
 
 2. model.png is the graphical representation of the model
 
