@@ -11,3 +11,9 @@ The different files present are:
 3. Dataset files: D1.xlsx, D2.xlsx, D3.xlsx, D4.xlsx, D5.xlsx, D6.xlsx
 
 4. ekf_attitude estimation.m is the Extended Kalman Filter implementation for attitude estimation
+
+
+## Citation
+If your are referring to the code/dataset provided, you are requested to cite the below article.
+
+   Narkhede P, Walambe R, Poddar S, Kotecha K. 2021. Incremental learning of LSTM framework for sensor fusion in attitude estimation. PeerJ Computer Science 7:e662   https://doi.org/10.7717/peerj-cs.662
